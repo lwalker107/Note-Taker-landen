@@ -1,10 +1,10 @@
-# blah
+# Landen Note Taker App
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Title
 
 
-blah
+Landen Note Taker App
 
 # Table of Contents
 
@@ -33,7 +33,7 @@ landenwalker880@gmail.com
 ## Description
 
 
-blah
+Note Taker app that lets the user create and save notes that persist even when you leave the application and you can go back and delete the note whenever you want.
 
 
 ## Installlation 
@@ -43,7 +43,7 @@ npm i
 
 ## Usage
 
-blah
+It is easy to push changes as long as you are working on your own separate branch and I approve of the changes.
 
 ## License
 
@@ -53,17 +53,17 @@ MIT
 ## How to Contribute
 
 
-blah
+My GitHub name and/or my email address.
 
 ## Tests
 
 
-blah
+npm run tests
 
 ## Screenshot
 
-![screenshot](./Assets/11-express-homework-demo-01.png)
+![screenshot](./Assets/Landen-screenshot.PNG)
 
 ## Link 
 
-blah
+https://lwalker107.github.io/Note-Taker-landen/
